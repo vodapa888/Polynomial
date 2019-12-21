@@ -77,4 +77,20 @@ class Polynomial:
 
     def degree(self):
         return len(self.coefficients) - 1
+    
+    #def der(self, d=1):
+
+    #def __mul__(self, other):
+
+    #def __rmul__(self, other):
+
+    #def __mod__(self, other):
+
+    #def __rmod__(self, other):
+
+    #def gcd(self, other):
+
+    #def __iter__(self):
+
+    #def __next__(self):
 
